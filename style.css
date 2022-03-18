@@ -31,6 +31,7 @@ body{
     line-height: 1.3;
     font-size: 100%;
     background-color: var(--pale-blue);
+    font-family: var(--main-policy);
     
 }
 
@@ -68,7 +69,6 @@ body{
     width: 100%;
     height: 60%;
     background-color: var(--very-pale-blue);
-    font-family: var(--main-policy);
     padding: 20px;
     font-size: 16px;
 }
